@@ -114,7 +114,7 @@ _The LUT is the basic building block of an FPGA and is capable of implementing a
 
 **Falso**
 ***
-### Los FPGA tienen mayo retardo en su respuesta que los CPLD
+### Los FPGA tienen mayor retardo en su respuesta que los CPLD
 
 **Verdadero**
 ***
@@ -127,6 +127,8 @@ _The LUT is the basic building block of an FPGA and is capable of implementing a
 **Falso**
 ***
 
+---
+---
 ## NOTAS
 
 ### sPLD
