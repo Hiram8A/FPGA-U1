@@ -53,8 +53,12 @@ Debido a que su funcionamiento es la sumatoria de términos producto.
 - PROM / EPROM / EEPROM
 - GAL
 - FPGA
+***
 
 
+
+
+***
 ## Examen U1 b
 ***
 ### Nombre de 2 Componentes PRINCIPALES de un SoC, de acuerdo a la definición de SoC vista en clase
